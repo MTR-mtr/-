@@ -1,0 +1,19 @@
+date: 2025-04-25
+ location: Aircraft cabin
+
+	ime	emperature (°C)
+minute 0	25.76
+minute 1	25.76
+minute 2	25.76
+minute 3	25.76
+minute 4	25.76
+minute 5	25.76
+minute 6	25.76
+minute 7	25.76
+minute 8	25.76
+minute 9	25.76
+
+Statistics:
+Minimum temperature: 25.27°C
+maximum temperature: 26.25°C
+average temperature: 25.79°C
